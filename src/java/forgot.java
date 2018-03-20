@@ -78,7 +78,7 @@ public class forgot extends HttpServlet {
                        messageText+="Login: <b>"+to+"</b><br>";
                        messageText+="New Password: <b>"+password+"</b><br>";
                        messageText+="Thanks";
-                       String host="smtp.gmail.com", user="hanutsingh786@gmail.com",pass="stems@10";
+                       String host="smtp.gmail.com", user="********@gmail.com",pass="*********";
                        String from = user;
                        Properties props = System.getProperties();
                        props.put("mail.host", host);
