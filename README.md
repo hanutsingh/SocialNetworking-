@@ -6,3 +6,4 @@ In this application firstly the user has to register themself i.e. create a new 
 And only after that user will be able to send friend request according to his searches.
 But they are not be treated as friend until & unless the other person(receiver) can't accept his/her request.
 and Now they become friends of each other and likewise user can add more people also by sending them friend request.
+Complete Information of whole project and about each file is attached to files itself, so Please refer their for knowing about the project in details. 
