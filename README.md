@@ -14,7 +14,7 @@ FOR DATABASE(socialnetworking)- contains 4 tables(including----->>>
      
      (2)-users- stores only userId(Email) and password(password) that check user's details during his login ;
      
-     (3)-sendingrequest- stores userId(Email),receiverID(REmail),receiver's name(RName),sending date-(SDate) and sending message(Hello!!! Please Accept my Request);
+     (3)-sendingrequest- stores userId(Email),receiverID(REmail),receiver's name(RName),sending date-(SDate) and sending message("Hello!!! Please Accept my Request");
      
      (4)-seenrequest- stores user'Id(Email),receiverID(REmail),name(Name),seending date(SDate),view date(VDate),friendshipstatus(status))  
 
